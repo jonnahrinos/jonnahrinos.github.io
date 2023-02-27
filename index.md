@@ -3,24 +3,7 @@ layout: default
 ---
 ## About Me:
 
----
-
-## Education:
-
----
-
-## Skills:
-
----
-
-## Professional Experience:
-
-
----
-
-
-## Projects:
-
+A Certified IT Professional with more than 10 years of experience in Software Development specializing in Android Development.
 
 ---
 
@@ -43,10 +26,3 @@ layout: default
 [... See all certifications](./certifications)
 
 ---
-
-## Publications:
-
-
----
-
-## Achievements:

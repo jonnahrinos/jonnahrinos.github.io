@@ -1,0 +1,33 @@
+title: Jonnah Lyn Bowen
+logo: /assets/img/logo.webp
+email: jonnahlynb29e@gmail.com
+description: Senior Software Engineer
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: dark
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+#  - name: Résumé
+#    icon: <i class="fa-solid fa-file-lines"></i>
+#    link: ./assets/files/vaibhav_vikas_resume.pdf
+#  - name: GitHub
+#    icon: <i class="fa-brands fa-github"></i>
+#    link: https://github.com/jonnahrinos
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/jrinos
+#  - name: Projects
+#    icon: <i class="fa-solid fa-file-code"></i>
+#    link: ./projects
+#  - name: Certifications
+#    icon: <i class="fa-solid fa-award"></i>
+#    link: ./certifications
+#  - name: Open Source
+#    icon: <i class="fa-solid fa-ghost"></i>
+#    link: ./open-source

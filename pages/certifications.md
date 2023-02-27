@@ -1,4 +1,5 @@
 ---
+title: Certifications
 layout: default
 permalink: /certifications
 ---

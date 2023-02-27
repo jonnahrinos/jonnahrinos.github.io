@@ -11,7 +11,7 @@ AWS.
 
 ---
 <h1 id="myAnchor">Experience:
-<span style="float: right"><a style="font-size:15px" href="/experience" aria-hidden="true">All experience >></a></span>
+<span style="float: right"><a style="font-size:45%;" href="/experience" aria-hidden="true">All experience >></a></span>
 </h1>
 
 <div class="card">
@@ -69,7 +69,7 @@ AWS.
 ---
 
 <h1 id="myAnchor">Certifications:
-<span style="float: right"><a style="font-size:15px" href="/certifications" aria-hidden="true">All certifications >></a></span>
+<span style="float: right"><a style="font-size:45%;" href="/certifications" aria-hidden="true">All certifications >></a></span>
 </h1>
 
 <div class="card">

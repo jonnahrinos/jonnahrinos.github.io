@@ -5,7 +5,7 @@ description: Senior Software Engineer
 favicon: true
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: dark
-google_analytics: G-TFC28VF6NT
+google_analytics: G-LXS6GM7BYK
 
 plugins:
   - jekyll-seo-tag

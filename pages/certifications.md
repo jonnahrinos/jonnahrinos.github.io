@@ -9,7 +9,9 @@ permalink: /certifications
 
 <div class="card">
   <h3>PhilNITS (formerly JITSE)</h3>
-  <p><b>October 2010</b></p>
+  <p><b>PhilNITS</b>, October 2010<br>
+  <b>Credential Id</b>: FE03-0048</p>
+  <a href="https://www.philnits.org/passers201505.html#Oct242010FE"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
